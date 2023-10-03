@@ -1,0 +1,23 @@
+# Archivos de compilación y ejecutables
+*.o
+*.out
+*.exe
+
+# Dependencias y directorios generados por paquetes de lenguajes
+/node_modules/
+/vendor/
+
+# Archivos temporales o de respaldo
+*~
+
+# Archivos de configuración locales
+.env
+
+# Archivos de caché y log
+/logs/
+/cache/
+
+# Archivos de ambiente y configuración específicos del sistema
+.DS_Store
+.vscode/
+Thumbs.db
